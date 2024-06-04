@@ -55,11 +55,14 @@ Datasets
 ![Prob1Code](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/ed0a5473-3807-44fb-8e3c-29bb8d94715f)
 ![Prob1Answer](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/88a262af-9bd0-4474-b210-6b6a3e0e17b9)
 ### List of Crimes that took place at a school:
-![Prob1Code](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/b1ed606c-2586-4fe3-a445-a7d44cc548c2)
-![Prob1Answer](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/1832f74d-4a52-4ede-8c74-4fbb97f353ef)
+![Prob2Code](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/8642413b-c570-444c-80d8-7ad3f269e589)
+![Prob2Answer](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/050b2e17-821b-4ccc-b5a7-3ef2658eb43a)
 ### List of the associated community area numbers and case numbers for the communities of Oakland, Armour Square, Edgewater, and CHICAGO:
 ![Prob3Code](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/55326603-5b90-4672-9175-cf451415e055)
 ![Prob3Answer](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/b02c4ee9-5b5c-4071-88fa-be6668755049)
+### List of the School names, community names, average attendance for communities with a hardship index of 98:
+![Q1Code](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/a17f6c51-5800-4a2c-adb2-60f1b5251f0d)
+![Q1Answer](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/080b70bf-5443-4a30-afe9-91ee3bd0a5c8)
 
 
 # Conclusion
