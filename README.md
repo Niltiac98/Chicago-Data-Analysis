@@ -22,6 +22,7 @@ Datasets
 
 ## Skills Demonstrated
 - SQL query formulation and execution
+- Inner and Outer Joins
 - Data importation and table creation in Db2
 - Analytical thinking and problem-solving using real-world data
 
@@ -50,6 +51,15 @@ Datasets
 ### Per Capita Income of the Community Area with a School Safety Area of 1:
 ![Problem10](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/4f35b7e1-26d1-4754-a0ae-ced39c64e87b)
 ![Problem10 2](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/29abf424-d54a-4df6-b515-ad8df3146f4e)
+### Case Number, Crime Type, and Community Area for all crimes in community area number 18:
+![Prob1Code](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/ed0a5473-3807-44fb-8e3c-29bb8d94715f)
+![Prob1Answer](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/88a262af-9bd0-4474-b210-6b6a3e0e17b9)
+### List of Crimes that took place at a school:
+![Prob1Code](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/b1ed606c-2586-4fe3-a445-a7d44cc548c2)
+![Prob1Answer](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/1832f74d-4a52-4ede-8c74-4fbb97f353ef)
+### List of the associated community area numbers and case numbers for the communities of Oakland, Armour Square, Edgewater, and CHICAGO:
+![Prob3Code](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/55326603-5b90-4672-9175-cf451415e055)
+![Prob3Answer](https://github.com/Niltiac98/Chicago-Data-Analysis/assets/51493359/b02c4ee9-5b5c-4071-88fa-be6668755049)
 
 
 # Conclusion
